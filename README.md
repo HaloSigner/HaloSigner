@@ -6,12 +6,12 @@
 ## 🚀 About Me
 I am a **Bioinformatics and Artificial Intelligence specialist** with a passion for leveraging computational tools to solve biological problems. My expertise lies at the intersection of biology, data science, and machine learning.
 
-- 🔬 I’m currently working on **[Your Current Project/Research]**
-- 📚 I’m currently learning advanced techniques in **[Specific AI/ML Technology or Bioinformatics Tool]**
-- 🧬 I’m looking to collaborate on projects involving **[Specific Field/Interest, e.g., genomics, drug discovery]**
-- 🤝 I’m looking for help with **[Specific Challenge or Problem]**
+- 🔬 I’m currently working on **[Cell image classifier/ Finding Cancer specific signaling pathway]**
+- 📚 I’m currently learning advanced techniques in **[GAN & sLLM / scRNA Sequencing]**
+- 🧬 My major field **[Cancer Biology, Pharmarcology, Bioinformatics, Artificial Intelligence]**
+- 🤝 I’m looking for help with **[Image Training & LLM]**
 - 💬 Ask me about **bioinformatics, machine learning, or data science**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[kojkos@gmail.com]**
 - 🌟 Fun fact: **I love decoding the mysteries of DNA and enjoy teaching AI to understand biological data.**
 
 ## 🛠️ Languages and Tools:
