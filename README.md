@@ -1,8 +1,7 @@
-# Hello, I'm [Your Name]! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-![Header Image](https://images.unsplash.com/photo-1581091870622-1a34b9bba7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJpb2luZm9ybWF0aWNzfGVufDB8fHx8MTYyNjg4MzYxOQ&ixlib=rb-1.2.1&q=80&w=1080)  <!-- Replace with your own image link -->
+![Header Image](https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/15123159/Application-of-Bioinformatics.jpg)
 
 ## 🚀 About Me
 I am a **Bioinformatics and Artificial Intelligence specialist** with a passion for leveraging computational tools to solve biological problems. My expertise lies at the intersection of biology, data science, and machine learning.
@@ -52,4 +51,4 @@ I am a **Bioinformatics and Artificial Intelligence specialist** with a passion 
 - **[Award Name]**, Awarding Organization, Year.
 - **[Award Name]**, Awarding Organization, Year.
 
-![Footer Image](https://images.unsplash.com/photo-1505678261036-a3fcc5e884ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGJpb2luZm9ybWF0aWNzfGVufDB8fHx8MTYyNjg4MzYxOQ&ixlib=rb-1.2.1&q=80&w=1080)  <!-- Replace with your own image link -->
+![Footer Image](https://enterprisersproject.com/sites/default/files/styles/large/public/2022-04/cio_ai_intelligence_idea.png?itok=q9xuCZF3)
